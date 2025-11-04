@@ -51,7 +51,10 @@ Here’s verified proof of my HackerRank Java journey 👇
 - 🏅 [My HackerRank Profile](https://www.hackerrank.com/profile/grishdubey01)
 - 📜 **Java Badge Earned on HackerRank:**
 
-  <img width="286" height="310" alt="HackerRank Java Badge" src="https://github.com/user-attachments/assets/c44e36cd-7404-41df-8398-164139c93f09" />
+  <p align="center">
+    <img width="300" height="330" alt="HackerRank Java Badge" src="https://github.com/user-attachments/assets/c44e36cd-7404-41df-8398-164139c93f09" />
+  </p>
+
 
 > *All challenges are personally solved and verified on HackerRank before being uploaded here.*
 
