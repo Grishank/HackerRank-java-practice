@@ -48,16 +48,29 @@ HackerRank-java-practice
 
 ## 🖼️ Proof of Completion
 
-Here’s verified proof of my HackerRank Java journey 👇  
+Here’s verified proof of my **HackerRank Java learning journey** 👇  
 
-- 🏅 [My HackerRank Profile](https://www.hackerrank.com/profile/grishdubey01)
-- 📜 **Java Badge Earned on HackerRank:**
+---
+
+### 🏅 My HackerRank Profile  
+🔗 [View Profile](https://www.hackerrank.com/profile/grishdubey01)
+
+---
+
+### 📜 Java Badge Earned on HackerRank  
 
 <p align="center">
-  <img src="./java-badge.png" alt="HackerRank Java Badge" width="300">
+  <img src="./java-badge.png" alt="HackerRank Java Badge" width="280">
 </p>
 
-> *All challenges are personally solved and verified on HackerRank before being uploaded here.*
+⭐ **Achievement Unlocked:** *Java Badge — Level 1*  
+📅 *Earned after solving the first 4 foundational Java challenges on HackerRank.*  
+🧩 Challenges completed: `Welcome to Java`, `Stdin & Stdout I`, `If-Else`, `Stdin & Stdout II`  
+💡 *This marks the beginning of my structured Java problem-solving journey.*
+
+---
+
+> 🧠 *All challenges are personally solved, verified, and uploaded from my own HackerRank account.*
 
 
 
