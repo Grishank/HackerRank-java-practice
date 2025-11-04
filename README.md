@@ -54,7 +54,7 @@ Here’s verified proof of my HackerRank Java journey 👇
 - 📜 **Java Badge Earned on HackerRank:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c44e36cd-7404-41df-8398-164139c93f09" alt="HackerRank Java Badge" width="300">
+  <img src="./java-badge.png" alt="HackerRank Java Badge" width="300">
 </p>
 
 > *All challenges are personally solved and verified on HackerRank before being uploaded here.*
