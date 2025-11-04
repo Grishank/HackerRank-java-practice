@@ -44,6 +44,8 @@ HackerRank-java-practice
 └── README.md
 ```
 
+---
+
 ## 🖼️ Proof of Completion
 
 Here’s verified proof of my HackerRank Java journey 👇  
@@ -51,10 +53,9 @@ Here’s verified proof of my HackerRank Java journey 👇
 - 🏅 [My HackerRank Profile](https://www.hackerrank.com/profile/grishdubey01)
 - 📜 **Java Badge Earned on HackerRank:**
 
-  <p align="center">
-    <img width="300" height="330" alt="HackerRank Java Badge" src="https://github.com/user-attachments/assets/c44e36cd-7404-41df-8398-164139c93f09" />
-  </p>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c44e36cd-7404-41df-8398-164139c93f09" alt="HackerRank Java Badge" width="300">
+</p>
 
 > *All challenges are personally solved and verified on HackerRank before being uploaded here.*
 
