@@ -29,18 +29,21 @@ This repository documents my **Java learning and problem-solving journey on Hack
 
 ## 🧭 Folder Structure
 
-HackerRank-java-practice
-├── 📂 docs
-│ ├── learning-notes.md
-│ ├── roadmap.md
-│ └── useful-resources.md
-├── 📂 easy
-│ ├── java-if-else
-│ ├── java-stdin-stdout-I
-│ ├── java-stdin-stdout-II
-│ └── welcome-to-java
-├── .gitignore
+```
+HackerRank-java-practice  
+├── 📂 docs  
+│   ├── learning-notes.md  
+│   ├── roadmap.md  
+│   └── useful-resources.md  
+├── 📂 easy  
+│   ├── java-if-else  
+│   ├── java-stdin-stdout-I  
+│   ├── java-stdin-stdout-II  
+│   └── welcome-to-java  
+├── .gitignore  
 └── README.md
+```
+
 
 
 
